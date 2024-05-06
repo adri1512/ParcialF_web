@@ -1,0 +1,41 @@
+.topbar {
+    background-color: #093255;
+    opacity: 0.9;
+}
+
+.navbar {
+    background-color: #fff !important;
+}
+
+.btn-primary {
+    background-color: #06A3DA !important;
+    border: 0px !important;
+    font-family: 'Jost', sans-serif !important;
+}
+
+.btn-primary:hover {
+    background-color: #848484 !important;
+}
+
+.nav-link, .dropdown-item {
+    font-family: 'Jost', sans-serif !important;
+    color: #000 !important;
+    font-size: 18px !important;
+}
+
+.nav-link.active, .nav-link:hover {
+    color: #06A3DA !important;
+}
+
+.carousel-caption {
+    background-color: #093255 !important;
+    opacity: 0.8;
+    top: 0px !important;
+    bottom: 0px !important;
+    left: 0px !important;
+    right: 0px !important;
+}
+
+.banner {
+    background-color: #093255 !important;
+} 
